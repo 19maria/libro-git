@@ -1,4 +1,4 @@
-scott chacon an ben straub pro git apress
-ryan hodson ry's git tutoria. smashwords (2004)
+
 chacon, s. and straub, b pro git apress
 loeliger, J. and mccullougn, M Version control with git o'reilly
+hodson, R Ry's git tutorial smashwords (2014)
